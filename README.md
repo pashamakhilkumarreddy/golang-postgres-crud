@@ -1,1 +1,1 @@
-# react-golang-chat
+# Golang Postgres Demo
